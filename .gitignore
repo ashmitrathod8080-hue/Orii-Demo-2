@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtualenv and env files
+.venv/
+venv/
+.env
+.env.*
+
+# IDEs / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Node (if present)
+node_modules/
